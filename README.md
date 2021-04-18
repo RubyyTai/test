@@ -1,4 +1,4 @@
-HAHA
+HAHA HAHA
 
 # 程式導師實驗計畫第五期
 
